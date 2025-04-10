@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A classic film camera known for its exceptional build and image quality.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/NXsJkyM/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "An iconic electric guitar favored by rock legends since the '60s.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount":3,
+    "image": "https://i.ibb.co.com/W47wNw59/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The first Macintosh computer released by Apple in 1984.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/5h7vCv5q/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A luxury dive watch, highly collectible and timeless in design.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 40,
+    "image": "https://i.ibb.co.com/PvLvnyGt/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Rare first edition of the literary classic by F. Scott Fitzgerald.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 10,
+    "image": "https://i.ibb.co.com/4nNnbzmt/Bid6-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "An iconic chair design that blends comfort and modernist style.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 32,
+    "image": "https://i.ibb.co.com/B51s5S1n/Bid5-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "An original screen print by the anonymous street artist Banksy.",
+    "currentBidPrice": 2850,
+    "timeLeft": "2 Days",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/sXCTQKP/Bid7-min.png"
+  }
+]
